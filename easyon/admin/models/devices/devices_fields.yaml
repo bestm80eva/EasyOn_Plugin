@@ -1,0 +1,26 @@
+fields:
+    dev_name:
+        label: Text
+        oc.commentPosition: ''
+        span: auto
+        type: text
+    dev_nextpage_no:
+        label: Text
+        oc.commentPosition: ''
+        span: auto
+        type: text
+    dev_res_x:
+        label: Text
+        oc.commentPosition: ''
+        span: auto
+        type: text
+    dev_res_y:
+        label: Text
+        oc.commentPosition: ''
+        span: auto
+        type: text
+    dev_isactive:
+        label: Checkbox
+        span: auto
+        default: 1
+        type: checkbox

@@ -1,0 +1,80 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table easyon_admin_cfg_config'
+    - builder_table_create_easyon_admin_cfg_config.php
+1.0.3:
+    - 'Created table easyon_admin_css_css'
+    - builder_table_create_easyon_admin_css_css.php
+1.0.4:
+    - 'Created table easyon_admin_dev_devices'
+    - builder_table_create_easyon_admin_dev_devices.php
+1.0.5:
+    - 'Created table easyon_admin_dgr_devicegroup'
+    - builder_table_create_easyon_admin_dgr_devicegroup.php
+1.0.6:
+    - 'Updated table easyon_admin_cfg_config'
+    - builder_table_update_easyon_admin_cfg_config.php
+1.0.7:
+    - 'Updated table easyon_admin_css_css'
+    - builder_table_update_easyon_admin_css_css.php
+1.0.8:
+    - 'Updated table easyon_admin_cfg_config'
+    - builder_table_update_easyon_admin_cfg_config_2.php
+1.0.9:
+    - 'Updated table easyon_admin_dev_devices'
+    - builder_table_update_easyon_admin_dev_devices.php
+1.0.10:
+    - 'Created table easyon_admin_icp_idecomponents'
+    - builder_table_create_easyon_admin_icp_idecomponents.php
+1.0.11:
+    - 'Created table easyon_admin_log_log'
+    - builder_table_create_easyon_admin_log_log.php
+1.0.12:
+    - 'Created table easyon_admin_men_menus'
+    - builder_table_create_easyon_admin_men_menus.php
+1.0.13:
+    - 'Created table easyon_admin_pag_page'
+    - builder_table_create_easyon_admin_pag_page.php
+1.0.14:
+    - 'Created table easyon_admin_pgp_pagegroup'
+    - builder_table_create_easyon_admin_pgp_pagegroup.php
+1.0.15:
+    - 'Created table easyon_admin_pgs_pages'
+    - builder_table_create_easyon_admin_pgs_pages.php
+1.0.16:
+    - 'Created table easyon_admin_sth_sitetheme'
+    - builder_table_create_easyon_admin_sth_sitetheme.php
+1.0.17:
+    - 'Created table easyon_admin_cdt_clientdetails'
+    - builder_table_create_easyon_admin_cdt_clientdetails.php
+1.0.18:
+    - 'Created table easyon_admin_clt_client'
+    - builder_table_create_easyon_admin_clt_client.php
+1.0.19:
+    - 'Updated table easyon_admin_css_css'
+    - builder_table_update_easyon_admin_css_css_2.php
+1.0.20:
+    - 'Updated table easyon_admin_dev_devices'
+    - builder_table_update_easyon_admin_dev_devices_2.php
+1.0.21:
+    - 'Updated table easyon_admin_dev_devices'
+    - builder_table_update_easyon_admin_dev_devices_3.php
+1.0.22:
+    - 'Updated table easyon_admin_dgr_devicegroup'
+    - builder_table_update_easyon_admin_dgr_devicegroup.php
+1.0.23:
+    - 'Updated table easyon_admin_log_log'
+    - builder_table_update_easyon_admin_log_log.php
+1.0.24:
+    - 'Updated table easyon_admin_pag_page'
+    - builder_table_update_easyon_admin_pag_page.php
+1.0.25:
+    - 'Updated table easyon_admin_pgp_pagegroup'
+    - builder_table_update_easyon_admin_pgp_pagegroup.php
+1.0.26:
+    - 'Updated table easyon_admin_pgs_pages'
+    - builder_table_update_easyon_admin_pgs_pages.php
+1.0.27:
+    - 'Updated table easyon_admin_sth_sitetheme'
+    - builder_table_update_easyon_admin_sth_sitetheme.php

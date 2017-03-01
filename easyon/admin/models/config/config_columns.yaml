@@ -1,0 +1,14 @@
+columns:
+    cfg_id:
+        label: ID
+        type: number
+    cfg_name:
+        label: Name
+        type: text
+        searchable: true
+        sortable: true
+    cfg_value:
+        label: Value
+        type: text
+        searchable: true
+        sortable: true

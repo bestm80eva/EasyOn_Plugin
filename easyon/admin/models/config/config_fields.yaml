@@ -1,0 +1,11 @@
+fields:
+    cfg_name:
+        label: 'Config Name'
+        oc.commentPosition: ''
+        span: auto
+        type: text
+    cfg_value:
+        label: 'Config Value'
+        span: auto
+        oc.commentPosition: ''
+        type: text

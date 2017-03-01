@@ -1,0 +1,14 @@
+name: Config
+modelClass: EasyOn\Admin\Models\Config
+form: $/easyon/admin/models/config/fields.yaml
+defaultRedirect: easyon/admin/config
+create:
+    title: 'Add Config'
+    redirect: 'easyon/admin/config/update/:id'
+    redirectClose: easyon/admin/config
+update:
+    title: 'Update Config'
+    redirect: easyon/admin/config
+    redirectClose: easyon/admin/config
+preview:
+    title: 'Preview Config'

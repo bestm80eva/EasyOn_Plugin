@@ -1,0 +1,32 @@
+plugin:
+    name: 'easyon.admin::lang.plugin.name'
+    description: 'easyon.admin::lang.plugin.description'
+    author: EasyOn
+    icon: oc-icon-adjust
+    homepage: 'http://www.easyon.eu'
+permissions:
+    beta:
+        tab: beta_title
+        label: beta_label
+navigation:
+    main-menu-item:
+        label: 'Easy On - Admin'
+        url: /
+        icon: icon-table
+        sideMenu:
+            side-menu-item:
+                label: Config
+                url: easyon/admin/config
+                icon: icon-sliders
+            side-menu-item2:
+                label: 'Device Management'
+                url: /
+                icon: icon-sitemap
+            side-menu-item3:
+                label: 'Content Management'
+                url: /
+                icon: icon-sitemap
+            side-menu-item4:
+                label: 'Media Management'
+                url: /
+                icon: icon-sitemap
